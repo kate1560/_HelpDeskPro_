@@ -1,0 +1,25 @@
+{
+  "Home": {
+    "title": "Sistema de solicitudes",
+    "welcome": "Bienvenida/o al sistema sencillo de control de solicitudes.",
+    "login": "Iniciar sesión",
+    "viewRequests": "Ver solicitudes (requiere login)"
+  },
+  "Requests": {
+    "title": "Solicitudes",
+    "newTitle": "Nueva solicitud",
+    "myRequests": "Mis solicitudes",
+    "noRequests": "Aún no tienes solicitudes.",
+    "fieldTitle": "Título",
+    "fieldDescription": "Descripción",
+    "create": "Crear",                     
+    "status": "Estado"
+  },
+  "Login": {
+    "title": "Iniciar sesión",
+    "email": "Correo",
+    "password": "Contraseña",
+    "submit": "Entrar",
+    "invalid": "Credenciales inválidas"
+  }
+}

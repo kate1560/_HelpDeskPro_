@@ -1,0 +1,25 @@
+{
+  "Home": {
+    "title": "Requests system",
+    "welcome": "Welcome to the simple requests management system.",
+    "login": "Log in",
+    "viewRequests": "View requests (login required)" 
+  },
+  "Requests": {
+    "title": "Requests",  
+    "newTitle": "New request",
+    "myRequests": "My requests",
+    "noRequests": "You don't have requests yet.",  
+    "fieldTitle": "Title",
+    "fieldDescription": "Description",  
+    "create": "Create",  
+    "status": "Status" 
+  },
+  "Login": {
+    "title": "Log in",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Sign in",
+    "invalid": "Invalid credentials"
+  }
+}
