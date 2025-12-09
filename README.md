@@ -1,5 +1,4 @@
-# _HelpDeskPro_
-# 📬 Request and Ticket System 
+# 📬 Request and Ticket System – Fullstack App
 
 Application developed with **Next.js and Ts** and a backend in **Express**, which allows the management of requests/tickets made by users and administered by agents.
 
@@ -122,6 +121,7 @@ npm run dev
 - **Typescript**
 
 # 📸 Screenshots  
+
 
 
 
